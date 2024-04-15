@@ -1,0 +1,3 @@
+C:/code/2D_Game/cmake-build-debug/CMakeFiles/sfml-c++.dir
+C:/code/2D_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code/2D_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir

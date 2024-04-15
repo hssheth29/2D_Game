@@ -1,0 +1,6 @@
+# ninja log v5
+3306	4115	7346917146035074	sfml-c++.exe	b718f30299a71809
+10	3305	7346917137992790	CMakeFiles/sfml-c++.dir/src/main.cpp.obj	3a16c044b988cef6
+8	1282	7325121739687835	CMakeFiles/sfml-c++.dir/src/character.cpp.obj	612809321f2b9526
+23	1229	7325121738671530	CMakeFiles/sfml-c++.dir/src/Utilities.cpp.obj	c0b076b86f8a1247
+1	612	7348703226556513	build.ninja	62e0340d264a135e
